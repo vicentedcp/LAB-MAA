@@ -1,5 +1,12 @@
 {
     "workbench.editorAssociations": {
         "file:/**/*.xlsx": "jupyter-data-wrangler"
-    }
+    },
+    "python-envs.pythonProjects": [
+        {
+            "path": "notebooks/Tareas 2026 DA-ML",
+            "envManager": "ms-python.python:venv",
+            "packageManager": "ms-python.python:pip"
+        }
+    ]
 }
